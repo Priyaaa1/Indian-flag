@@ -1,2 +1,2 @@
 # Indian-flag
-It is Indian Flag (Tiranga) made with Python, using Matplotlib.
+Made Indian Flag (Tiranga) with Python, using Matplotlib.
